@@ -68,6 +68,9 @@
     .footer2 p{
         font-size: 13px;
     }
+    .footer2 .col-md-6 ul{
+        padding: 0;
+    }
     .service-sec .row .col-xl-3 img{
         width: 70px;
     }

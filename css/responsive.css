@@ -1,0 +1,113 @@
+@media only screen and (max-width:1000px){
+    .footer2 .col-md-6 ul li{
+        font-size: 18px;
+    }
+    .footer2 .col-md-3{
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width:900px){
+    .carousel-item img{
+        width: 45%;
+    }
+}
+@media only screen and (max-width:800px){
+    .main-txt2 h1{
+        font-size: 50px;
+    }
+}
+@media only screen and (max-width:700px){
+    .main-txt h1{
+        font-size: 50px;
+    }
+    .main-txt h2{
+        font-size: 45px;
+    }
+    .main-txt2 h1{
+        font-size: 43px;
+        text-align: center;
+    }
+   
+}
+@media only screen and (max-width:600px){
+    footer{
+        flex-direction: column;
+        margin-top: 200px;
+    }
+    .carousel-item img{
+        width: 55%;
+    }
+}
+@media only screen and (max-width:544px){
+    .navbar{
+        width: 100%;
+    }
+    .main-txt h1{
+        font-size: 40px;
+    }
+    .main-txt h2{
+        font-size: 35px;
+    }
+    .pricing-sec .pricing-menu ul li {
+        font-size: 20px;
+    }
+}
+@media only screen and (max-width:441px){
+    .pricing-sec .pricing-menu ul li {
+        font-size: 15px;
+    }
+    .main-txt{
+        text-align: center;
+    }
+    .main-txt h1{
+        font-size: 35px;
+    }
+    .main-txt h2{
+        font-size: 30px;
+    }
+    .footer2 p{
+        font-size: 13px;
+    }
+    .service-sec .row .col-xl-3 img{
+        width: 70px;
+    }
+    .service-sec .card-text{
+        font-size: 13px;
+    }
+    footer p{
+        font-size: 13px;
+    }
+    .carousel-item img{
+        width: 65%;
+    }
+    .carousel-caption{
+        bottom: 0.25rem;
+    }
+    .carousel-caption h5{
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width:371px){
+    .navbar a img {
+        width: 55%;
+    }
+    .main-txt2 h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .pricing-sec .pricing-menu{
+        padding: 0;
+    }
+    .pricing-sec .pricing-menu ul li {
+        font-size: 14px;
+    }
+    .footer2 .col-md-6 ul li{
+        font-size: 13px;
+    }
+    .footer2 p{
+        font-size: 13px;
+    }
+    .carousel-item img{
+        width: 90%;
+    }
+}

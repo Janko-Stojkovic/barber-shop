@@ -97,12 +97,12 @@
     .main-txt2 h1{
         font-size: 30px;
         text-align: center;
-    }
-    .pricing-sec .pricing-menu ul{
-        padding: 0;
-    }
+    } 
     .pricing-sec h2{
         width: 65%;
+    }
+    .pricing-sec .pricing-menu .col-xl-6 ul{
+        padding-left: 0;
     }
     .pricing-sec .pricing-menu ul li {
         font-size: 14px;

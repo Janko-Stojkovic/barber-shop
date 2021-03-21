@@ -101,6 +101,9 @@
     .pricing-sec h2{
         width: 65%;
     }
+    .pricing-sec .pricing-menu{
+        padding: 0;
+    }
     .pricing-sec .pricing-menu .col-xl-6 ul{
         padding-left: 0;
     }

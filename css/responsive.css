@@ -73,7 +73,6 @@
     }
     .service-sec .row .col-xl-3 img{
         width: 70px;
-        height:65px;
     }
     .service-sec .card-text{
         font-size: 13px;
@@ -99,11 +98,8 @@
         font-size: 30px;
         text-align: center;
     }
-    .pricing-sec .pricing-menu{
+    .pricing-sec .pricing-menu ul{
         padding: 0;
-    }
-    .pricing-sec .pricing-menu col-xl-6 ul{
-        padding-left: 0;
     }
     .pricing-sec .pricing-menu ul li {
         font-size: 14px;

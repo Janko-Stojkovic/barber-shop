@@ -1,0 +1,17 @@
+<rss version="2.0">
+    <channel>
+        <title>IceCrown - home</title>
+        <link>https://janko-stojkovic.github.io/barber-shop/#</link>
+        <description>Come on look great</description>
+       <item>
+            <title>Prices</title>
+            <link>https://janko-stojkovic.github.io/barber-shop/pages/price.html</link>
+            <description>Every penny given is worth</description>
+        </item>
+        <item>
+            <title>Workers</title>
+            <link>https://janko-stojkovic.github.io/barber-shop/pages/workers.html</link>
+            <description>We have the best barbers</description>
+        </item>
+    </channel>
+</rss>
